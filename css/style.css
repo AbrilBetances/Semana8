@@ -1,0 +1,46 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    font-family: 'Comfortaa', cursive;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Comfortaa', cursive;
+}
+
+li a:hover {
+    background-color: #dd643e;
+}
+
+
+p{
+    font-family: 'Comfortaa', cursive;
+    color: #dd643e;
+    text-align: center;
+    line-height: 1.4em;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: white;
+   color: grey;
+   text-align: center;
+}
+
+
